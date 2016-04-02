@@ -3,10 +3,10 @@ AaHTTP - Simple, lightweighted, elegant HTTP request encapsulatation in Swift.
 
 ## Features
 
-- Designed for trivial app network scenario. (JSON based GET/POST request)
-- Purely implemented with NSURLSession, without any other dependency.
-- Conform **Adapter Design Pattern**. `AaHTTP` act as frontend which provides all functionality, and `AaNet` act as backend provide service for `AaHTTP`. Under such design, you can always alternate network backend to other implementation(e.g `AFNetowrking`, `Alamofire`) without change any code in your project.
-- Easily customize, less than 200 lines of code with straightforward logic. you can easily do some customization based on your need.
+- **D**esigned for trivial app network scenario. (JSON based GET/POST request)
+- **P**urely implemented with NSURLSession, without any other dependency.
+- **C**onform **Adapter Design Pattern**. `AaHTTP` act as frontend which provides all functionality, and `AaNet` act as backend provide service for `AaHTTP`. Under such design, you can always alternate network backend to other implementation(e.g `AFNetowrking`, `Alamofire`) without change any code in your project.
+- **E**asily customize, less than 200 lines of code with straightforward logic. you can easily do some customization based on your need.
 
 ## Configure
 
