@@ -45,7 +45,7 @@ Just drag `AaNet.swift`, `AaHTTP.swift` from demo project to your project folder
 ```
 
 - Default parameter:
-- universal hostname: 
+- Universal hostname: 
 - JSON integrate:
 
 `Just take a look at AaHTTP.swift`
