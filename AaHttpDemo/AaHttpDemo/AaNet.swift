@@ -54,7 +54,6 @@ class AaNet: NSObject {
     }
     
     
-    // Convinient method from alamofire
     func buildParams(parameters: [String: AnyObject]) -> String {
         var components: [(String, String)] = []
         for key in Array(parameters.keys).sort() {
